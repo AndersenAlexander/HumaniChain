@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+cryptography
+openai
+requests
+python-dotenv
